@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.androidattendancesystem.app-mergeDebugResources-5:/values-sk/values-sk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mithi\\.gradle\\caches\\transforms-3\\b0324809c2b8be9fe4de604a7fcc0c3c\\transformed\\support-compat-26.1.0\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
